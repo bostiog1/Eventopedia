@@ -539,3 +539,24 @@ h3{
     outline: none;
     border: 1px solid #ccc;
 }
+
+.entry-title{
+        width: 100%;
+        margin: 0 auto 1.5em auto;
+        box-sizing: border-box;
+        top: 50px;
+        font-weight: 250;
+        line-height: 1.75;
+        font-size: 150%;
+}
+
+.col img{
+        position: relative;
+        display: block;
+        width: calc(100% - 100px);
+        max-width: 1340px;
+        height: 600px;
+        margin: 25px auto 0 auto;
+        background: #9888EA;
+        border-radius: 15px;
+}
