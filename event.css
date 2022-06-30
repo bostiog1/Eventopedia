@@ -571,7 +571,7 @@ h3{
     position: relative;
     display: block;
     width: calc(100% - 100px);
-    max-width: 1340px;
+    max-width: 1140px;
     height: 600px;
     margin: 50px auto 0 auto;
     background: #9888EA;
@@ -583,11 +583,13 @@ h3{
     text-align: center;
 }
 
-.sec img{
+
+
+.video iframe{
     position: relative;
     display: block;
     width: calc(100% - 100px);
-    max-width: 800px;
+    max-width: 1000px;
     height: 600px;
     margin: 50px auto 0 auto;
     background: #9888EA;
