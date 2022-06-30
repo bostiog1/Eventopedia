@@ -107,7 +107,6 @@ nav img {
     }
 }
 
-
 /*---- event ----*/
 
 .event{
@@ -171,7 +170,6 @@ h3{
     padding-top: 50px;
 }
 
-
 .campus-col{
     flex-basis: 32%;
     border-radius: 10px;
@@ -185,8 +183,6 @@ h3{
     height: 100%;
     display: block;
 }
-
-
 .layer{
     background: transparent;
     height: 100%;
@@ -282,13 +278,6 @@ h3{
     color: #fff;
 }
 
-
-
-/* ----- blog content */
-
-
-/*----- contact us page -----*/
-
 .titleh{
     text-align: center;
     box-sizing: border-box;
@@ -296,6 +285,7 @@ h3{
     margin:auto;
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 .entry p{
     width: 1000px;
@@ -326,14 +316,10 @@ h3{
     background: #9888EA;
     border-radius: 15px;
 }
-
 .entry h2{
     line-height: 23px;
     text-align: center;
 }
-
-
-
 .video iframe{
     position: relative;
     display: block;
