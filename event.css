@@ -20,8 +20,9 @@ nav {
     align-items: center;
 }
 
-nav img {
-    width: 150px;    
+.logo {
+    width: 150px;
+    float: left;    
 }
 
 .nav-links{
